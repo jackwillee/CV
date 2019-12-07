@@ -1,55 +1,38 @@
-## Your Name
+Jack Willee
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a 24 years old technology enthusiast i used to work in the financial sector but after starting to learn to code
+on codeacademy and udemy i developed a passion for technology. I am very exicted to learn more about the Technology sector and 
+learn new skills and improve on existing ones.
 
-## Skills
+Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+I am a very social person and enjoy working as part of a team. Excellent communication skills. 
 
-#### This Skill
+-Team working-
+I am really confident and enjoy working within a team. My teamworking skills have been tested and improved from group assignments in school and working within a small team in my previous role. I have always been a social person and much prefer working alongside others in a team to working on my own. 
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+-Communication--
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have very strong communication skills i developed this skill firstly doing group assignments during my school life and later when i started working. I worked for a small financial advisory company and had to arrange meetings prospective clients via telephone. Through my previous role i greatly advanced my communication skills and teamworking skills. I am very exicted to improve on my existing skills and learn new ones that will improve myself as a person and make me a more productive member of a team.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+ Education
 
-## Education
-
-#### Makers Academy (start_date to end_date)
+ Makers Academy (11/11/19 to end_date)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+British School of Barcelona (15/10/2011 to 15/09/2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+History,Spanish and ICT
 
-#### Any other qualifications
+ Experience
+ Sales Co-ordinator - Professional Investment Consultants  (2015 to 2018)    
 
-That in some arguable way make you a better software developer or well-rounded person
 
-## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
