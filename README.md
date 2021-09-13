@@ -8,7 +8,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 | ---------------------------- | -----------------   | ----------------- |
 | Acebook                      | facebook clone      | Rails, Rspec      |
 | Bank                         |  tech test          | Ruby, Rspec       |
-| Chitter                      | twitter clone        | Rails, bootstrap  |
+| Chitter                      | twitter clone       | Rails, bootstrap  |
 | Seasonal Regional            |                     | Vue.js , enzyme   |
 
 ## Work Experience
@@ -16,7 +16,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 **Professional Investment Consultants** ( september 2014  to september 2019)  
 Sales Co-ordinator
 
-- finding out contacting prospective clients and connecting them with senior financial adviser
+- I used tools like Linkedin and google to find high quality prospective clients and make an introduction where i could introduce a range of products that could have been of interest to that prospective client.
 
 ## Skills 
 - Fast Learning - I am a naturally curious person and love learning something new or filling gaps in knowledge. I enjoy researching to find a new way to solve a technicial issue.
