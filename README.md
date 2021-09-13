@@ -22,6 +22,8 @@ Sales Co-ordinator
 - Fast Learning - I am a naturally curious person and love learning something new or filling gaps in knowledge. I enjoy researching to find a new way to solve a technicial issue.
 - Time Management - working remotely taught me a great deal about both how to effectively communicate with a team and how to set goals and and accurately achieve them.
 
+- Communication - I am naturally a highly social person and enjoy working both on my own and within a team.
+
 
 
 ## Education
@@ -44,3 +46,11 @@ Sales Co-ordinator
  - Udemy python course (10 hour length)
  - Freecodecamp Javascript course (6 hour length)
  - Freecodecamp Postgresql course (4 hour length)
+ - Freecodecamp Django course (6 hours length)
+
+ # Additional interests #
+ - Travel -
+ I am a huge fan of Travel and enjoy visiting new places and experiencing new cultures and cusines. I have travelled since i was maybe 10 years old. I am always looking forward to the next trip in my calender.
+
+ - Sport  -
+I love watching various sports and even do a reasonable amount of skiing in the pyrenees. I would like to try surfing next as it looks like a great sport/activity lifestylewise.
