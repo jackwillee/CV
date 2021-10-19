@@ -6,6 +6,18 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 
 ## Tech Stack and what im currently working on
 
+. Ruby(Rails, RSpec, Sinatra and Capybara)
+
+. SQL(Postgresql, TablePlus and ActiveRecord)
+
+. HTML/CSS(Bootstrap)
+
+. Heroku
+
+. Github
+
+. Javascript(Jasmine, VueJS)
+
 ## Projects
 
 | Name                         | Description         | Tech/tools        |
