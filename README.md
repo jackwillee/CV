@@ -52,9 +52,9 @@ Sales Co-ordinator
 - RSpec, Jasmine
 
 #### British School of Barcelona (2011 to 2013)
--- History --
--- ICT --
--- Spanish --
+. History 
+. ICT
+. Spanish 
 
 
 # Additional Education #
