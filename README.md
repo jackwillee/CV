@@ -4,7 +4,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 
 
 
-## Tech Stack and what im currently working on
+## Tech Stack
 
 . Ruby(Rails, RSpec, Sinatra and Capybara)
 
@@ -69,4 +69,4 @@ Sales Co-ordinator
  I am a huge fan of Travel and enjoy visiting new places and experiencing new cultures and cusines. I have travelled since i was maybe 10 years old. I am always looking forward to the next trip in my calender.
 
  - Sport  -
-I love watching various sports and even do a reasonable amount of skiing in the pyrenees. I would like to try surfing next as it looks like a great sport/activity lifestylewise.
+I love watching various sports and even do a reasonable amount of skiing in the pyrenees. I am currently interested in trying out sailing as a sport because i always thought it looked like a great activity from a lifestyle point of view.
