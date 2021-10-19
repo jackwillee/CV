@@ -1,6 +1,10 @@
 Jack Willee
 
-I am an enthusiastic and passionate full-stack developer who enjoys learning new things and improving upon existing knowledge.
+I am an enthusiastic and passionate full-stack developer who enjoys learning new things and improving upon existing knowledge. I would like to work in a company that would facilitate me to progress my existing knowledge and allow me the opportunity to learn new exciting things.
+
+
+
+## Tech Stack and what im currently working on
 
 ## Projects
 
