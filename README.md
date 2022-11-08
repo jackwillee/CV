@@ -27,6 +27,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 | Chitter                      | twitter clone       | Rails, bootstrap  |
 | Seasonal Regional            |                     | Vue.js , enzyme   |
 | Chitter V2                  | redesign of crud app |  Rails , SQLite, bootstrap    |
+| posts_app_react             | first introduction to react framework.| React.JS, Firebase, bootstrap|
 ## Work Experience
 
 **Professional Investment Consultants** ( september 2014  to september 2019)  
