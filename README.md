@@ -28,6 +28,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 | Seasonal Regional            |                     | Vue.js , enzyme   |
 | Chitter V2                  | redesign of crud app |  Rails , SQLite, bootstrap    |
 | posts_app_react             | first introduction to react framework.| React.JS, Firebase, bootstrap|
+| Goal Management app ( in progress )        | simple crud app for daily goal setting based on trello| Rails , active record html/css|
 ## Work Experience
 
 **Professional Investment Consultants** ( september 2014  to september 2019)  
