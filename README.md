@@ -26,7 +26,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 | Bank                         |  tech test          | Ruby, Rspec       |
 | Chitter                      | twitter clone       | Rails, bootstrap  |
 | Seasonal Regional            |                     | Vue.js , enzyme   |
-| Friends App                  |   in progress       |  Rails , AR       |
+| Chitter V2                  | redesign of crud app |  Rails , SQLite, bootstrap    |
 ## Work Experience
 
 **Professional Investment Consultants** ( september 2014  to september 2019)  
