@@ -24,7 +24,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 
 | Name                         | Description         | Tech/tools        |
 | ---------------------------- | -----------------   | ----------------- |
-| Acebook                      | facebook clone      | Rails, Rspec      |
+| [Makers BnB] (https://github.com/jackwillee/makers-bnb)                     | airbnb   clone      | Sinatra, Rspec      |
 | Bank                         |  tech test          | Ruby, Rspec       |
 | [Chitter](https://github.com/jackwillee/chitter-rails)                      | twitter clone       | Rails, bootstrap  |
 | Seasonal Regional            |                     | Vue.js , enzyme   |
