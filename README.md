@@ -26,7 +26,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 | ---------------------------- | -----------------   | ----------------- |
 | Acebook                      | facebook clone      | Rails, Rspec      |
 | Bank                         |  tech test          | Ruby, Rspec       |
-| [Chitter](https://pages.github.com/)                      | twitter clone       | Rails, bootstrap  |
+| [Chitter](https://github.com/jackwillee/chitter-rails)                      | twitter clone       | Rails, bootstrap  |
 | Seasonal Regional            |                     | Vue.js , enzyme   |
 | posts_app_react             | first introduction to react framework.| React.JS, Firebase, bootstrap|
 | Goal Management app ( in progress )        | simple crud app for daily goal setting based on trello| Rails , active record html/css|
