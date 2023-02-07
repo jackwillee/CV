@@ -32,7 +32,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 | Goal Management app ( in progress )        | simple crud app for daily goal setting based on trello| Rails , active record html/css|
 ## Work Experience
 
-**Professional Investment Consultants** ( september 2014  to september 2019)  
+**Professional Investment Consultants** ( September 2014  to September 2019)  
 Sales Co-ordinator
 
 - I used tools like Linkedin and google to find high quality prospective clients and make an introduction where i could introduce a range of products that could have been of interest to that prospective client.
@@ -47,7 +47,7 @@ Sales Co-ordinator
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (november 2019 to march 2020)
 - TDD to solve problems in a well structured way in order to make code errors and the codebase easier to understand
 - Pairing daily to improve problem solving skills and also develop personal skills
 - OOP and MVC
