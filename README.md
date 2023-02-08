@@ -26,7 +26,7 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 | [Bank](https://github.com/jackwillee/Bank-Ruby)                         |  tech test          | Ruby, Rspec       |
 | [Chitter](https://github.com/jackwillee/chitter-rails)                      | twitter clone       | Rails, bootstrap  |
 | Seasonal Regional            |                     | Vue.js , enzyme   |
-| Fizzbuzz            | Practing TDD by solving a popular interview question| Ruby and RSpec|
+| [Fizzbuzz](https://github.com/jackwillee/Fizzbuzz-Ruby)            | Practing TDD by solving a popular interview question| Ruby and RSpec|
 | Goal Management app ( in progress )        | simple crud app for daily goal setting based on trello| Rails , active record html/css|
 ## Work Experience
 
