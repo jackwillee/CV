@@ -16,8 +16,6 @@ I am an enthusiastic and passionate full-stack developer who enjoys learning new
 
 . Github
 
-. Javascript(Jasmine, VueJS)
-
 . Python
 
 ## Projects
