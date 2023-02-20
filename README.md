@@ -1,6 +1,6 @@
 Jack Willee
 
-I am an enthusiastic and passionate full-stack developer who enjoys learning new things and improving upon existing knowledge. I would like to work in a company that would facilitate me to progress my existing knowledge and allow me the opportunity to learn new exciting things.
+I am an enthusiastic and passionate full-stack developer who enjoys learning new things and improving upon existing knowledge. I would like to work in a company that would facilitate me to progress my existing knowledge and allow me the opportunity to learn new exciting things. Recently i have been working on a simple trello style application using Ruby on Rails and learning data structures & algorithms in Python.
 
 
 
