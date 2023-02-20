@@ -41,6 +41,8 @@ Sales Co-ordinator
 
 - Communication - I am naturally a highly social person and enjoy working both on my own and within a team.
 
+- Team Player - I work well with others and enjoy working within a team i believe that working with others is the best way to learn and grow as a person. 
+
 
 
 ## Education
