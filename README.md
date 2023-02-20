@@ -69,7 +69,7 @@ Sales Co-ordinator
 
  # Additional interests #
  - Travel -
- I am a huge fan of Travel and enjoy visiting new places and experiencing new cultures and cusines. I have travelled since i was maybe 10 years old. I am always looking forward to the next trip in my calender.
+ I am a huge fan of Travel and enjoy visiting new places and experiencing new cultures and cusines. I have travelled since i was maybe 10 years old. I am always looking forward to the next trip in my calendar.
 
  - Sport  -
 I love watching various sports and even do a reasonable amount of skiing in the pyrenees. I am currently interested in trying out sailing as a sport because i always thought it looked like a great activity from a lifestyle point of view.
